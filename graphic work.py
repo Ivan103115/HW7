@@ -2,7 +2,7 @@ import turtle
 a=0
 b=0
 turtle.bgcolor("black")
-turtle.speed(1000)
+turtle.speed(10000)
 turtle.pencolor("lightgreen")
 turtle.penup()
 turtle.goto(0,200)
@@ -17,3 +17,6 @@ while True:
     if b == 200:
         break
 turtle.exitonclick()
+
+
+
