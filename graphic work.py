@@ -18,8 +18,3 @@ while True:
         break
 turtle.exitonclick()
 
-
-
-
-
-
