@@ -17,4 +17,3 @@ while True:
     if b == 200:
         break
 turtle.exitonclick()
-
