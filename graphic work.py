@@ -1,7 +1,7 @@
 import turtle
 a=0
 b=0
-turtle.bgcolor("black")
+turtle.bgcolor("white")
 turtle.speed(10000)
 turtle.pencolor("lightgreen")
 turtle.penup()
